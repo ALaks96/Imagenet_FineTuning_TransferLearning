@@ -1,4 +1,4 @@
-# Imagenet FineTuning TransferLearning
+# Imagenet Fine-Tuning Transfer-Learning
 
 Deep learning TD during my advanced machine learning class at Ecole Polytechnique. 
 
